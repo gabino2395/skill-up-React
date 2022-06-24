@@ -33,7 +33,7 @@ const Buscador = () => {
       </label>
 
       <button  type="submit">
-        ingresar
+      buscar
       </button>
     </form>
    
